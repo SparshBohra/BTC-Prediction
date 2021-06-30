@@ -1,3 +1,3 @@
 # BTC-Prediction
 
-Accuracy on test data: 98.23%.
+Accuracy on test data: 98.23%
